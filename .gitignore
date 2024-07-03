@@ -1,0 +1,94 @@
+# Miscellaneous
+*.class
+*.lock
+*.log
+*.pyc
+*.swp
+*.DS_Store
+*.swo
+.idea/
+.packages
+.pub/
+.sass-cache/
+*.tmp
+*.temp
+*.bak
+*.orig
+*.save
+*.swp
+*.swo
+*.DS_Store
+*.iml
+*.hprof
+*.log
+*.keystore
+*.crt
+*.pem
+*.p12
+*.pfx
+*.asc
+
+# Flutter specific
+**/build/
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/Flutter.podspec
+**/ios/ServiceDefinitions.json
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# Web related
+**/web/manifest.json
+
+# Android specific
+**/android/**/gradle-wrapper.jar
+**/android/**/gradle-wrapper.properties
+**/android/.gradle/
+**/android/captures/
+**/android/**/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+**/android/key.properties
+
+# iOS specific
+**/ios/Pods/
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# Desktop specific
+**/linux/flutter/ephemeral/
+**/linux/flutter/generated_plugin_registrant.cc
+**/linux/flutter/CMakeLists.txt
+**/macos/flutter/ephemeral/
+**/macos/flutter/GeneratedPluginRegistrant.swift
+**/macos/Flutter/GeneratedPluginRegistrant.swift
+**/windows/flutter/ephemeral/
+**/windows/flutter/generated_plugin_registrant.cpp
+**/windows/flutter/CMakeLists.txt
+
+# Flutter dependencies
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.dart_tool/
+**/.pub-cache/
+**/.packages
+**/flutter_*.png
+pubspec.lock
+
+# JetBrains
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/dictionaries
+.idea/**/contentModel.xml
+.idea/**/gradle.xml
+.idea/**/libraries
+.idea/**/modules.xml
+.idea/**/vcs.xml
+.idea/**/markdown_navigator.xml
+
+# VS Code
+.vscode/
